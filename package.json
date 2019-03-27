@@ -1,0 +1,28 @@
+{
+  "name": "bedrock-security-context",
+  "version": "0.0.1-0",
+  "description": "Bedrock security context",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-security-context.git"
+  },
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-security-context/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-security-context",
+  "dependencies": {
+    "security-context": "w3c-dvcg/security-vocab#kms"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.15.0"
+  },
+  "engines": {
+    "node": ">=6.3.0"
+  }
+}
