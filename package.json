@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-security-context",
   "dependencies": {
-    "security-context": "w3c-dvcg/security-vocab#master"
+    "security-context": "^2.0.0"
   },
   "peerDependencies": {
     "bedrock": "^1.15.0"
