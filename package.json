@@ -17,12 +17,16 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-security-context",
   "dependencies": {
-    "security-context": "^2.0.0"
+    "security-context": "^3.0.1"
   },
   "peerDependencies": {
     "bedrock": "^1.15.0"
   },
   "engines": {
     "node": ">=6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-digitalbazaar": "^2.0.0"
   }
 }

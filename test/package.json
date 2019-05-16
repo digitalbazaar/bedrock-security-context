@@ -1,0 +1,14 @@
+{
+  "name": "bedrock-security-context-test",
+  "version": "0.0.1-0",
+  "private": true,
+  "scripts": {
+    "test": "node --preserve-symlinks test test"
+  },
+  "dependencies": {
+    "bedrock": "^1.15.0",
+    "bedrock-security-context": "file:..",
+    "bedrock-test": "^2.1.0",
+    "security-context": "^3.0.1"
+  }
+}
