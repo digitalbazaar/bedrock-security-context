@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 2.0.0 - TBD
+## 2.0.0 - 2019-10-21
 
 ### Changed
 - **BREAKING**: Refactor module for use with bedrock@2.
