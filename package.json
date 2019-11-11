@@ -10,17 +10,17 @@
   "author": {
     "name": "Digital Bazaar, Inc.",
     "email": "support@digitalbazaar.com",
-    "url": "https://digitalbazaar.com"
+    "url": "https://digitalbazaar.com/"
   },
   "bugs": {
     "url": "https://github.com/digitalbazaar/bedrock-security-context/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-security-context",
   "dependencies": {
-    "security-context": "^3.0.1"
+    "security-context": "^4.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^2.0.0",
+    "bedrock": "2.0.0 - 3.x",
     "bedrock-jsonld-document-loader": "^1.0.0"
   },
   "engines": {
