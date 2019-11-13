@@ -1,8 +1,8 @@
 {
   "name": "bedrock-security-context",
-  "version": "2.0.1-0",
+  "version": "3.0.0",
   "description": "Bedrock security context",
-  "license": "SEE LICENSE IN LICENSE.md",  
+  "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
   "repository": {
     "type": "git",
