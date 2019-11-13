@@ -1,8 +1,10 @@
 # bedrock-security-context ChangeLog
 
+## 3.0.0 - 2019-11-13
+
 ### Changed
+- **BREAKING**: Use security-context@4.
 - Update dependencies.
-- Use security-context@4.
 
 ## 2.0.0 - 2019-10-21
 
