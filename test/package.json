@@ -6,10 +6,10 @@
     "test": "node --preserve-symlinks test test"
   },
   "dependencies": {
-    "bedrock": "^3.0.1",
+    "bedrock": "^4.1.1",
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "file:..",
-    "bedrock-test": "^4.0.2",
+    "bedrock-test": "^5.3.2",
     "security-context": "^4.0.0"
   }
 }
