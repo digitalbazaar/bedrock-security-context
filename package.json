@@ -24,7 +24,7 @@
     "security-context": "^4.0.0"
   },
   "peerDependencies": {
-    "bedrock": "2.0.0 - 3.x",
+    "bedrock": "2.0.0 - 4.x",
     "bedrock-jsonld-document-loader": "^1.0.0"
   },
   "engines": {
