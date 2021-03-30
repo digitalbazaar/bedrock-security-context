@@ -4,6 +4,9 @@
   "description": "Bedrock security context",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-security-context.git"
@@ -28,7 +31,7 @@
     "node": ">=6.3.0"
   },
   "devDependencies": {
-    "eslint": "^6.0.0",
-    "eslint-config-digitalbazaar": "^2.0.0"
+    "eslint": "^7.23.0",
+    "eslint-config-digitalbazaar": "^2.6.1"
   }
 }
