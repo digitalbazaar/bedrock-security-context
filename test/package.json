@@ -10,6 +10,9 @@
     "bedrock-jsonld-document-loader": "^1.0.0",
     "bedrock-security-context": "file:..",
     "bedrock-test": "^5.3.2",
-    "security-context": "^4.0.0"
+    "ed25519-signature-2018-context": "^1.0.1",
+    "ed25519-signature-2020-context": "^1.0.1",
+    "security-context": "^4.0.0",
+    "x25519-key-agreement-2020-context": "^1.0.0"
   }
 }
