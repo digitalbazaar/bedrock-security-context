@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 4.0.0 - TBD
+## 4.0.0 - 2021-03-31
 
 ### Changed
 - **BREAKING**: Context URLs are no longer added to `bedrock.config.constants`.
