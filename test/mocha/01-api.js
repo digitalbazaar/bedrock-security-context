@@ -8,10 +8,14 @@ const {documentLoader} = require('bedrock-jsonld-document-loader');
 describe('bedrock-security-context', () => {
   it('sets up contexts properly', async () => {
     const testContexts = [
-      'security-context',
+      'aes-key-wrapping-2019-context',
       'ed25519-signature-2018-context',
       'ed25519-signature-2020-context',
+      'security-context',
+      'sha256-hmac-key-2019-context',
+      'webkms-context',
       'x25519-key-agreement-2020-context',
+      'zcap-context',
     ];
     for(const testContext of testContexts) {
       const {contexts, constants: contextConstants} = require(testContext);
