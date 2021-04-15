@@ -1,5 +1,13 @@
 # bedrock-security-context ChangeLog
 
+## 4.1.0 - TBD
+
+### Added
+- Support for `aes-key-wrapping-2019-context`.
+- Support for `sha256-hmac-key-2019-context`.
+- Support for `webkms-context`.
+- Support for `zcap-context`.
+
 ## 4.0.0 - 2021-03-31
 
 ### Changed
