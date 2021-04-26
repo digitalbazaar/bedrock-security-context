@@ -1,6 +1,6 @@
 {
   "name": "bedrock-security-context",
-  "version": "4.1.0",
+  "version": "4.1.1-0",
   "description": "Bedrock security context",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
