@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 4.1.0 - TBD
+## 4.1.0 - 2021-04-26
 
 ### Added
 - Support for `aes-key-wrapping-2019-context`.
