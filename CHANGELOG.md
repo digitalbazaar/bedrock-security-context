@@ -1,5 +1,12 @@
 # bedrock-security-context ChangeLog
 
+## 5.0.0 - 2022-01-xx
+
+### Changed
+- **BREAKING**: Use `@digitalbazaar/security-context@1`.
+- **BREAKING**: Use `@digitalbazaar/webkms-context@2`.
+- **BREAKING**: Use `@digitalbazaar/zcap-context@2`.
+
 ## 4.1.0 - 2021-04-26
 
 ### Added
