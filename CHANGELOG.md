@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 5.0.0 - 2022-01-xx
+## 5.0.0 - 2022-01-11
 
 ### Changed
 - **BREAKING**: Use `@digitalbazaar/security-context@1`.
