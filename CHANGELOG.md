@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 5.1.0 - 2022-03-xx
+## 5.1.0 - 2022-03-29
 
 ### Changed
 - Update peer deps:
