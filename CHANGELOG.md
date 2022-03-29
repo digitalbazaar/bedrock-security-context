@@ -1,5 +1,15 @@
 # bedrock-security-context ChangeLog
 
+## 5.1.0 - 2022-03-xx
+
+### Changed
+- Update peer deps:
+  - `bedrock@4.5`
+  - `bedrock-jsonld-document-loader@1.3`.
+
+### Fixed
+- Ensure internals use ESM.
+
 ## 5.0.0 - 2022-01-11
 
 ### Changed
