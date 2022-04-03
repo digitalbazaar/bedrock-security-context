@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 6.0.2 - 2022-04-xx
+## 6.0.2 - 2022-04-03
 
 ### Fixed
 - Do not export constants due to conflicts. Constants should be
