@@ -1,5 +1,12 @@
 # bedrock-security-context ChangeLog
 
+## 6.0.2 - 2022-04-xx
+
+### Fixed
+- Do not export constants due to conflicts. Constants should be
+  imported directly from the underlying context package instead
+  to avoid confusion.
+
 ## 6.0.1 - 2022-04-03
 
 ### Fixed
