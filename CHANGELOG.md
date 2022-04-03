@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 6.0.0 - 2022-04-xx
+## 6.0.0 - 2022-04-03
 
 ### Changed
 - **BREAKING**: Rename package to `@bedrock/bedrock-security-context`.
