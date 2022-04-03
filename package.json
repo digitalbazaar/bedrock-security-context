@@ -1,9 +1,10 @@
 {
-  "name": "bedrock-security-context",
+  "name": "@bedrock/security-context",
   "version": "5.1.1-0",
+  "type": "module",
   "description": "Bedrock security context",
   "license": "SEE LICENSE IN LICENSE.md",
-  "main": "lib",
+  "main": "./lib/index.js",
   "scripts": {
     "lint": "eslint ."
   },
@@ -27,21 +28,20 @@
     "aes-key-wrapping-2019-context": "^1.0.3",
     "ed25519-signature-2018-context": "^1.1.0",
     "ed25519-signature-2020-context": "^1.1.0",
-    "esm": "^3.2.25",
     "sha256-hmac-key-2019-context": "^1.0.3",
     "x25519-key-agreement-2020-context": "^1.0.0"
   },
   "peerDependencies": {
-    "bedrock": "^4.5.0",
-    "bedrock-jsonld-document-loader": "^1.3.0"
+    "@bedrock/core": "^5.0.0",
+    "@bedrock/jsonld-document-loader": "^2.0.0"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-digitalbazaar": "^2.8.0",
     "eslint-plugin-jsdoc": "^37.9.7",
-    "jsdoc-to-markdown": "^6.0.1"
+    "jsdoc-to-markdown": "^7.1.1"
   }
 }
