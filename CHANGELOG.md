@@ -1,5 +1,10 @@
 # bedrock-security-context ChangeLog
 
+## 6.0.1 - 2022-04-xx
+
+### Fixed
+- Ensure constants are exported.
+
 ## 6.0.0 - 2022-04-03
 
 ### Changed
