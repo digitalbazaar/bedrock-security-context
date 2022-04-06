@@ -1,5 +1,11 @@
 # bedrock-security-context ChangeLog
 
+## 6.0.3 - 2022-04-xx
+
+### Fixed
+- Load `ed25519-signature-2018-context` as CommonJS to fix its
+  import errors.
+
 ## 6.0.2 - 2022-04-03
 
 ### Fixed
