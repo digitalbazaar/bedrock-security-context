@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/security-context",
-  "version": "6.0.3-0",
+  "version": "6.0.3",
   "type": "module",
   "description": "Bedrock security context",
   "license": "SEE LICENSE IN LICENSE.md",
