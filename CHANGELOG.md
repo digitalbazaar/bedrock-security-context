@@ -1,6 +1,6 @@
 # bedrock-security-context ChangeLog
 
-## 7.0.0 - 2022-04-xx
+## 7.0.0 - 2022-04-28
 
 ### Changed
 - **BREAKING**: Update peer deps:
