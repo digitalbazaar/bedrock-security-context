@@ -1,5 +1,12 @@
 # bedrock-security-context ChangeLog
 
+## 7.0.0 - 2022-04-xx
+
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/core@6`
+  - `@bedrock/jsonld-document-loader@3`.
+
 ## 6.0.3 - 2022-04-05
 
 ### Fixed
