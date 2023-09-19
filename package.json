@@ -33,10 +33,10 @@
   },
   "peerDependencies": {
     "@bedrock/core": "^6.0.0",
-    "@bedrock/jsonld-document-loader": "^3.0.0"
+    "@bedrock/jsonld-document-loader": "^4.0.0"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
