@@ -12,7 +12,7 @@
   "dependencies": {
     "@bedrock/core": "^6.0.0",
     "@bedrock/https-agent": "^4.0.0",
-    "@bedrock/jsonld-document-loader": "^3.0.0",
+    "@bedrock/jsonld-document-loader": "^5.1.0",
     "@bedrock/security-context": "file:..",
     "@bedrock/test": "^8.0.0",
     "@digitalbazaar/security-context": "^1.0.0",

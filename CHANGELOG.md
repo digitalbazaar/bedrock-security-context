@@ -2,6 +2,11 @@
 
 ## 9.0.0 - 2024-08-xx
 
+### Changed
+- **BREAKING**: Update peer deps:
+  - `@bedrock/jsonld-document-loader@5.1.0`.
+- Remove `@bedrock/core` peer dep.
+
 ### Fixed
 - Add package `files` field.
 
