@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-security-context",
   "dependencies": {
-    "@digitalbazaar/security-context": "^1.0.0",
-    "@digitalbazaar/webkms-context": "^2.0.0",
+    "@digitalbazaar/security-context": "^1.0.1",
+    "@digitalbazaar/webkms-context": "^2.1.0",
     "@digitalbazaar/zcap-context": "^2.0.0",
     "aes-key-wrapping-2019-context": "^1.0.3",
     "ed25519-signature-2018-context": "^1.1.0",
