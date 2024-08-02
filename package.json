@@ -5,6 +5,9 @@
   "description": "Bedrock security context",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "./lib/index.js",
+  "files": [
+    "lib/**/*.js"
+  ],
   "scripts": {
     "lint": "eslint ."
   },
